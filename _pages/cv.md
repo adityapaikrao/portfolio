@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: ./files/Paikrao_Aditya_Resume.pdf
+permalink: /files/Paikrao_Aditya_Resume.pdf
 author_profile: true
 redirect_from:
   - /resume
